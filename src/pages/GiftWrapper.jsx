@@ -133,7 +133,7 @@ const GiftWrapper = () => {
       {!countdownFinished && (
         <div className="mt-8 p-4 bg-white bg-opacity-80 rounded-lg shadow-md max-w-md text-center">
           <p className="text-pink-600">Hadiah ini terkunci sampai:</p>
-          <p className="text-xl font-bold text-purple-600">10 Agustus 2025</p>
+          <p className="text-xl font-bold text-purple-600">21 Agustus 2025</p>
         </div>
       )}
     </div>
