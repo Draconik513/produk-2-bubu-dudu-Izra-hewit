@@ -124,7 +124,7 @@ const GiftWrapper = () => {
             exit={{ opacity: 0 }}
             className="mt-4 p-4 bg-white rounded-lg shadow-md max-w-md text-center"
           >
-            <p className="text-pink-600">Hadiah belum bisa dibuka sampai 10 Agustus 2025!</p>
+            <p className="text-pink-600">Hadiah belum bisa dibuka sampai 21 Agustus 2025!</p>
             <p className="text-sm text-gray-500 mt-2">Tunggu sampai hari ulang tahun tiba ❤️</p>
           </motion.div>
         )}
